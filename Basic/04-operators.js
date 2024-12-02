@@ -22,7 +22,7 @@ console.log(a)
 b-- // Decremento
 console.log(b)
 
-// Operadores de asignacion
+// Operadores de asignación
 
 let myVariable = 2
 console.log(myVariable)
@@ -64,7 +64,7 @@ console.log(undefined === null)
 /*
 Truthy values (valores verdaderos)
 
-- Todos los numeros positivos y negativos menos el cero
+- Todos los números positivos y negativos menos el cero
 - Todas las cadenas de texto menos las vacías
 - El boolean true
 */
