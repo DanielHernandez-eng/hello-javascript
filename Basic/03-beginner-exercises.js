@@ -23,7 +23,7 @@ let numeroEntero = 2
 
 let numeroDecimal = 3.234
 
-let numeroOctal = o08
+let numeroOctal = 7
 
 let booleano = true
 
@@ -76,7 +76,7 @@ noEsNumero = 'a'
 numeroDecimal = true
 booleano = Symbol('simboly123')
 miSimbolo = BigInt(12331231436456742345234537465234242)
-EnteroGigante = o23
+EnteroGigante = 23
 
 // 8. Declara constantes con valores asociados a todos los tipos de datos primitivos
 const cade2na = 'hola'
@@ -85,7 +85,7 @@ const nume2roEntero = 2
 
 const nume2roDecimal = 3.234
 
-const nume2roOctal = o08
+const nume2roOctal = 8
 
 const bool2eano = true
 
@@ -108,7 +108,7 @@ const Ente2roGigante = 1234567890098976543265278968147387508324n
 
 // const nume2roDecimal = 3.234
 
-// const nume2roOctal = o08
+// const nume2roOctal = 7
 
 // const bool2eano = true
 
