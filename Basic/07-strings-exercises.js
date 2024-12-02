@@ -1,7 +1,6 @@
 /*
-Clase 2 en vídeo | 17/07/2024
-Tipos de datos, operadores y strings
-https://www.twitch.tv/videos/2200149072?t=00h08m02s
+Clase 22 - Ejercicios: Strings
+Vídeo: https://youtu.be/1glVfFxj8a4?t=7226
 */
 
 // 1. Concatena dos cadenas de texto

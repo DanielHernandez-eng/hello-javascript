@@ -1,7 +1,6 @@
 /*
-Clase 5 en vídeo | 07/08/2024
-Objetos, desestructuración, propagación y clases
-https://www.twitch.tv/videos/2218300512?t=00h17m10s
+Clase 34 - Ejercicios: Objetos
+Vídeo: https://youtu.be/1glVfFxj8a4?t=15675
 */
 
 // 1. Crea un objeto con 3 propiedades

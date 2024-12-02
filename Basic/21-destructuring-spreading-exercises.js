@@ -1,7 +1,6 @@
 /*
-Clase 5 en vídeo | 07/08/2024
-Objetos, desestructuración, propagación y clases
-https://www.twitch.tv/videos/2218300512?t=00h17m10s
+Clase 36 - Ejercicios: Desestructuración y propagación
+Vídeo: https://youtu.be/1glVfFxj8a4?t=16802
 */
 
 // 1. Usa desestructuración para extraer los dos primeros elementos de un array 

@@ -1,7 +1,6 @@
 /*
-Clase 4 en vídeo | 31/07/2024
-Mapas, bucles y funciones
-https://www.twitch.tv/videos/2212289583?t=00h17m45s
+Clase 28 - Ejercicios: Estructuras
+Vídeo: https://youtu.be/1glVfFxj8a4?t=11451
 */
 
 // 1. Crea un array que almacene cinco animales

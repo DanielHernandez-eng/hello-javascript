@@ -1,7 +1,6 @@
 /*
-Clase 2 en vídeo | 17/07/2024
-Tipos de datos, operadores y strings
-https://www.twitch.tv/videos/2200149072?t=00h08m02s
+Clase 18 - Ejercicios: primeros pasos
+Vídeo: https://youtu.be/1glVfFxj8a4?t=4733
 */
 
 // 1. Escribe un comentario en una línea
