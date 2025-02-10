@@ -9,9 +9,24 @@
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-## Curso finalizado (por el momento)
+## 🆕 NUEVO: Curso Intermedio [En desarrollo]
 
-#### El curso continuará con una parte intermedia próximamente. Lo anunciaré en redes y actualizaré el repo con el nuevo contenido.
+<a href="https://twitch.tv/mouredev"><img src="./Images/intermediate.jpg" style="height: 50%; width:50%;"/></a>
+
+### Curso de fundamentos intermedio (continuación del desde cero). Nueva clase cada semana.
+
+#### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 12 de febreto a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev) y [YouTube](https://youtube.com/@mouredev)
+#### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/876GQ39x?event=1336827032805576714)
+
+* Clase 1 [29/01/2025] - Funciones avanzadas
+	* [Vídeo](https://www.twitch.tv/videos/2367024319?t=00h08m45s)
+	* [Código](./Intermediate/00-advanced-functions.js)
+	* [Ejericios](./Intermediate/01-advanced-functions-exercises.js)
+
+* Clase 2 [05/02/2025] - Estructuras avanzadas
+	* [Vídeo](https://www.twitch.tv/videos/2373300186?t=00h15m32s)
+	* [Código](./Intermediate/02-advanced-structures.js)
+	* [Ejericios](./Intermediate/03-advanced-structures-exercises.js)
 
 ## Clases en vídeo
 
@@ -100,7 +115,11 @@ Mi idea es que el curso sea desde cero y para principiantes. Pensado para una pe
 Si la acogida de la comunidad es buena, seguiré creando cursos más avanzados.
 
 #### ¿Este curso va a continuar?
-Sí, próximamente comenzaré un nuevo bloque de clases intermedias.
+Sí, actualmente estoy desarrollando la parte Intermedia. Cada semana una nueva clase en directo.
+
+#### ¿Este curso se va a subir a YouTube?
+
+Sí, una vez finalizado lo editaré y subiré al igual que con la parte Desde Cero. Por el momento podrás encontrar cada una de las clases de manera individual en este repositorio.
 
 #### ¿Existe algún lugar donde consultar dudas?
 He creado un canal llamado "JavaScript" en el [servidor de Discord](https://discord.gg/mouredev) de la comunidad. Allí puedes consultar dudas y ayudar al resto de miembros. Así nos beneficiamos tod@s.
@@ -123,5 +142,5 @@ Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrolland
 Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
 
 [![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
+[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://mouredev.pro)
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
